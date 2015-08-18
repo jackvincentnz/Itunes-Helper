@@ -16,6 +16,7 @@ namespace ItunesHelper
 
         static void Main(string[] args)
         {            
+            // Hard coded for testing purposes
             args = new[] { "C:\\Users\\Jack\\Music\\DJ" };
 
             foreach (string path in args)
